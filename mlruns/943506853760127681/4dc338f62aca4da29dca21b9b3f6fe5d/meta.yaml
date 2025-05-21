@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/943506853760127681/4dc338f62aca4da29dca21b9b3f6fe5d/artifacts
+end_time: 1747834963897
+entry_point_name: ''
+experiment_id: '943506853760127681'
+lifecycle_stage: active
+run_id: 4dc338f62aca4da29dca21b9b3f6fe5d
+run_name: grandiose-mink-581
+run_uuid: 4dc338f62aca4da29dca21b9b3f6fe5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747834953194
+status: 3
+tags: []
+user_id: Aditya Arya
