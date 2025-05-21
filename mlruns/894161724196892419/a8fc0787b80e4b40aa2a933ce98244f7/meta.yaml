@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/a8fc0787b80e4b40aa2a933ce98244f7/artifacts
+deleted_time: 1747836494647
+end_time: 1747836314424
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: a8fc0787b80e4b40aa2a933ce98244f7
+run_name: nosy-crow-720
+run_uuid: a8fc0787b80e4b40aa2a933ce98244f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836314332
+status: 3
+tags: []
+user_id: Aditya Arya

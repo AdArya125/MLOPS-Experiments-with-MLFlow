@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/c159427079ea468d9884333e5e05be4b/artifacts
+deleted_time: 1747836494608
+end_time: 1747836245686
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: c159427079ea468d9884333e5e05be4b
+run_name: welcoming-cow-680
+run_uuid: c159427079ea468d9884333e5e05be4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836245646
+status: 3
+tags: []
+user_id: Aditya Arya

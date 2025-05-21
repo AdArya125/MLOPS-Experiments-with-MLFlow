@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/d00160a63e4d460a98ac0f7d854a139f/artifacts
+end_time: 1747836442528
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: active
+run_id: d00160a63e4d460a98ac0f7d854a139f
+run_name: trusting-owl-137
+run_uuid: d00160a63e4d460a98ac0f7d854a139f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836442479
+status: 3
+tags: []
+user_id: Aditya Arya

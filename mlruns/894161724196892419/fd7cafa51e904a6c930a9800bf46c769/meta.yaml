@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/fd7cafa51e904a6c930a9800bf46c769/artifacts
+end_time: 1747836456296
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: active
+run_id: fd7cafa51e904a6c930a9800bf46c769
+run_name: likeable-fox-655
+run_uuid: fd7cafa51e904a6c930a9800bf46c769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836432702
+status: 3
+tags: []
+user_id: Aditya Arya

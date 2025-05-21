@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/68ba9adee1c44c67b42a3f470ef6ca58/artifacts
+deleted_time: 1747836494632
+end_time: 1747836246013
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: 68ba9adee1c44c67b42a3f470ef6ca58
+run_name: shivering-trout-419
+run_uuid: 68ba9adee1c44c67b42a3f470ef6ca58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836245971
+status: 3
+tags: []
+user_id: Aditya Arya

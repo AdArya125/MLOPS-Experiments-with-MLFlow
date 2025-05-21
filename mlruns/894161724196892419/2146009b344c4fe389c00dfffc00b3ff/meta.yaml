@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/2146009b344c4fe389c00dfffc00b3ff/artifacts
+deleted_time: 1747836494656
+end_time: 1747836314206
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: 2146009b344c4fe389c00dfffc00b3ff
+run_name: gregarious-loon-360
+run_uuid: 2146009b344c4fe389c00dfffc00b3ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836314134
+status: 3
+tags: []
+user_id: Aditya Arya

@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/eb7a138188644d62a25f83fb549862e8/artifacts
+deleted_time: 1747836494656
+end_time: 1747836314311
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: eb7a138188644d62a25f83fb549862e8
+run_name: rare-stag-736
+run_uuid: eb7a138188644d62a25f83fb549862e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836314230
+status: 3
+tags: []
+user_id: Aditya Arya

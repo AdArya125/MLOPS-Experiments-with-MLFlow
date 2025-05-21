@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/e478c269348c4205a6e5eb0926cb9adc/artifacts
+deleted_time: 1747836356412
+end_time: 1747836314662
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: e478c269348c4205a6e5eb0926cb9adc
+run_name: able-chimp-953
+run_uuid: e478c269348c4205a6e5eb0926cb9adc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836300589
+status: 4
+tags: []
+user_id: Aditya Arya

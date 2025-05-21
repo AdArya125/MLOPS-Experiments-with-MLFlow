@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/1148a0e70d274d0f9dec653aded9b7fd/artifacts
+deleted_time: 1747836494666
+end_time: 1747836314110
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: 1148a0e70d274d0f9dec653aded9b7fd
+run_name: bright-bee-760
+run_uuid: 1148a0e70d274d0f9dec653aded9b7fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836314019
+status: 3
+tags: []
+user_id: Aditya Arya

@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/e198564dcd304e3d9638c9374114a733/artifacts
+deleted_time: 1747836494707
+end_time: 1747836246239
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: e198564dcd304e3d9638c9374114a733
+run_name: burly-midge-433
+run_uuid: e198564dcd304e3d9638c9374114a733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836246188
+status: 3
+tags: []
+user_id: Aditya Arya

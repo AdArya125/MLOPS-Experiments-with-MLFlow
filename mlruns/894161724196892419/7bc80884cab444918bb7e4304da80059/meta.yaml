@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/7bc80884cab444918bb7e4304da80059/artifacts
+deleted_time: 1747836494612
+end_time: 1747836245633
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: 7bc80884cab444918bb7e4304da80059
+run_name: legendary-bear-730
+run_uuid: 7bc80884cab444918bb7e4304da80059
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836245589
+status: 3
+tags: []
+user_id: Aditya Arya

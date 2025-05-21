@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/acb5a7db446240cfb12765eacde7a7d9/artifacts
+deleted_time: 1747836494629
+end_time: 1747836245904
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: acb5a7db446240cfb12765eacde7a7d9
+run_name: selective-stork-34
+run_uuid: acb5a7db446240cfb12765eacde7a7d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836245863
+status: 3
+tags: []
+user_id: Aditya Arya

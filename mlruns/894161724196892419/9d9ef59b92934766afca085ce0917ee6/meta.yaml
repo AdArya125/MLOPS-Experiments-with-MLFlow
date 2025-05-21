@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/9d9ef59b92934766afca085ce0917ee6/artifacts
+deleted_time: 1747836494674
+end_time: 1747836313779
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: 9d9ef59b92934766afca085ce0917ee6
+run_name: rare-mare-337
+run_uuid: 9d9ef59b92934766afca085ce0917ee6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836313661
+status: 3
+tags: []
+user_id: Aditya Arya

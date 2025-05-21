@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/c025c24f58124a57aaa73035dbfb78ce/artifacts
+deleted_time: 1747836494647
+end_time: 1747836246066
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: c025c24f58124a57aaa73035dbfb78ce
+run_name: resilient-pig-220
+run_uuid: c025c24f58124a57aaa73035dbfb78ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836246025
+status: 3
+tags: []
+user_id: Aditya Arya

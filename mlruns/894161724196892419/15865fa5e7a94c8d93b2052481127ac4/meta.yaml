@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/15865fa5e7a94c8d93b2052481127ac4/artifacts
+deleted_time: 1747836494687
+end_time: 1747836313316
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: 15865fa5e7a94c8d93b2052481127ac4
+run_name: nosy-mink-813
+run_uuid: 15865fa5e7a94c8d93b2052481127ac4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836313209
+status: 3
+tags: []
+user_id: Aditya Arya

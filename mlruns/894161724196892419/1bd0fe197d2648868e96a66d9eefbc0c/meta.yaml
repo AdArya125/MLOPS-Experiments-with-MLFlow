@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/1bd0fe197d2648868e96a66d9eefbc0c/artifacts
+end_time: 1747835984917
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: active
+run_id: 1bd0fe197d2648868e96a66d9eefbc0c
+run_name: nebulous-panda-591
+run_uuid: 1bd0fe197d2648868e96a66d9eefbc0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747835961149
+status: 3
+tags: []
+user_id: Aditya Arya

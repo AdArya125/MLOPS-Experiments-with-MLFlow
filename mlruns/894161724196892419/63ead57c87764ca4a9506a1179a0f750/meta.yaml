@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/63ead57c87764ca4a9506a1179a0f750/artifacts
+end_time: 1747836443012
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: active
+run_id: 63ead57c87764ca4a9506a1179a0f750
+run_name: beautiful-goat-811
+run_uuid: 63ead57c87764ca4a9506a1179a0f750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836442962
+status: 3
+tags: []
+user_id: Aditya Arya

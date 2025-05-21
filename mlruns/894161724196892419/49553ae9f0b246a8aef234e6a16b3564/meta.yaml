@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/49553ae9f0b246a8aef234e6a16b3564/artifacts
+deleted_time: 1747836356411
+end_time: 1747836246354
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: 49553ae9f0b246a8aef234e6a16b3564
+run_name: defiant-wren-509
+run_uuid: 49553ae9f0b246a8aef234e6a16b3564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836237967
+status: 4
+tags: []
+user_id: Aditya Arya

@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/4f8620f34cf44dd5867ebad49372d110/artifacts
+deleted_time: 1747836494712
+end_time: 1747836246175
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: 4f8620f34cf44dd5867ebad49372d110
+run_name: traveling-mink-582
+run_uuid: 4f8620f34cf44dd5867ebad49372d110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836246136
+status: 3
+tags: []
+user_id: Aditya Arya

@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/944d0f735669448dbfdbed3175e54fd7/artifacts
+deleted_time: 1747836494719
+end_time: 1747836246123
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: 944d0f735669448dbfdbed3175e54fd7
+run_name: silent-horse-307
+run_uuid: 944d0f735669448dbfdbed3175e54fd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836246081
+status: 3
+tags: []
+user_id: Aditya Arya

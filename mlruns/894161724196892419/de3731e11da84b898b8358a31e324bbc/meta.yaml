@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/de3731e11da84b898b8358a31e324bbc/artifacts
+end_time: 1747836442947
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: active
+run_id: de3731e11da84b898b8358a31e324bbc
+run_name: powerful-koi-434
+run_uuid: de3731e11da84b898b8358a31e324bbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836442892
+status: 3
+tags: []
+user_id: Aditya Arya

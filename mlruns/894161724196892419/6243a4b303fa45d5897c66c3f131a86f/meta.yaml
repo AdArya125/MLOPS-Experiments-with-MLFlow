@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/6243a4b303fa45d5897c66c3f131a86f/artifacts
+deleted_time: 1747836494634
+end_time: 1747836245957
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: 6243a4b303fa45d5897c66c3f131a86f
+run_name: merciful-fish-507
+run_uuid: 6243a4b303fa45d5897c66c3f131a86f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836245918
+status: 3
+tags: []
+user_id: Aditya Arya

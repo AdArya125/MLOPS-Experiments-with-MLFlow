@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/7615ad86cd774f5b861db1d61c7f484b/artifacts
+deleted_time: 1747836494673
+end_time: 1747836313618
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: 7615ad86cd774f5b861db1d61c7f484b
+run_name: honorable-shrimp-375
+run_uuid: 7615ad86cd774f5b861db1d61c7f484b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836313510
+status: 3
+tags: []
+user_id: Aditya Arya

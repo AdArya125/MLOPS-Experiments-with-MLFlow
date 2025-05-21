@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/bb46b47627f64585b12f24f71c8197a4/artifacts
+deleted_time: 1747836494616
+end_time: 1747836245796
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: bb46b47627f64585b12f24f71c8197a4
+run_name: overjoyed-trout-983
+run_uuid: bb46b47627f64585b12f24f71c8197a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836245754
+status: 3
+tags: []
+user_id: Aditya Arya

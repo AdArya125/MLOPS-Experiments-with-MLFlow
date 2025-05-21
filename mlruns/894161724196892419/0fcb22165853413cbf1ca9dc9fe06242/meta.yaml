@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/0fcb22165853413cbf1ca9dc9fe06242/artifacts
+end_time: 1747836442811
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: active
+run_id: 0fcb22165853413cbf1ca9dc9fe06242
+run_name: casual-skink-147
+run_uuid: 0fcb22165853413cbf1ca9dc9fe06242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836442757
+status: 3
+tags: []
+user_id: Aditya Arya

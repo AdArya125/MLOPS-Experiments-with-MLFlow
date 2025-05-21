@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/343570667a524397803fdfce51229506/artifacts
+deleted_time: 1747836494610
+end_time: 1747836245741
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: 343570667a524397803fdfce51229506
+run_name: agreeable-whale-587
+run_uuid: 343570667a524397803fdfce51229506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836245699
+status: 3
+tags: []
+user_id: Aditya Arya

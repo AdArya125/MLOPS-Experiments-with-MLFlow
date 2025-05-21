@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/9673696ca22a4a9c9ec73805242eb7a8/artifacts
+deleted_time: 1747836494683
+end_time: 1747836313464
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: deleted
+run_id: 9673696ca22a4a9c9ec73805242eb7a8
+run_name: ambitious-newt-105
+run_uuid: 9673696ca22a4a9c9ec73805242eb7a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836313361
+status: 3
+tags: []
+user_id: Aditya Arya

@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/894161724196892419/bc7644940f034bcf8bee6d1d562f185a/artifacts
+end_time: 1747836442598
+entry_point_name: ''
+experiment_id: '894161724196892419'
+lifecycle_stage: active
+run_id: bc7644940f034bcf8bee6d1d562f185a
+run_name: receptive-cod-386
+run_uuid: bc7644940f034bcf8bee6d1d562f185a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747836442544
+status: 3
+tags: []
+user_id: Aditya Arya
