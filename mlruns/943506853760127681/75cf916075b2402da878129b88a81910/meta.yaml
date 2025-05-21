@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/943506853760127681/75cf916075b2402da878129b88a81910/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '943506853760127681'
+lifecycle_stage: active
+run_id: 75cf916075b2402da878129b88a81910
+run_name: learned-hawk-542
+run_uuid: 75cf916075b2402da878129b88a81910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747833281178
+status: 1
+tags: []
+user_id: Aditya Arya

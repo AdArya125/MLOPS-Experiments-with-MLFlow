@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fd27a38e373a49f18928cc744f045964/artifacts
+end_time: 1747829686140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd27a38e373a49f18928cc744f045964
+run_name: gifted-hawk-306
+run_uuid: fd27a38e373a49f18928cc744f045964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747829685347
+status: 3
+tags: []
+user_id: Aditya Arya

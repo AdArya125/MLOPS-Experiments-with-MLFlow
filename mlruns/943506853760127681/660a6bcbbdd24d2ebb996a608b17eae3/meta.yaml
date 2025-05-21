@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/943506853760127681/660a6bcbbdd24d2ebb996a608b17eae3/artifacts
+end_time: 1747833303362
+entry_point_name: ''
+experiment_id: '943506853760127681'
+lifecycle_stage: active
+run_id: 660a6bcbbdd24d2ebb996a608b17eae3
+run_name: amusing-mare-719
+run_uuid: 660a6bcbbdd24d2ebb996a608b17eae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747833289620
+status: 3
+tags: []
+user_id: Aditya Arya

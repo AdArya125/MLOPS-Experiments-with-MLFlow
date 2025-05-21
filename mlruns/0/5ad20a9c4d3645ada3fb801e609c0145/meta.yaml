@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5ad20a9c4d3645ada3fb801e609c0145/artifacts
+end_time: 1747828912120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ad20a9c4d3645ada3fb801e609c0145
+run_name: bright-crab-536
+run_uuid: 5ad20a9c4d3645ada3fb801e609c0145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747828910929
+status: 3
+tags: []
+user_id: Aditya Arya
